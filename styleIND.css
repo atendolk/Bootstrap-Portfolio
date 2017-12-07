@@ -2,6 +2,8 @@ body{
    background-image: url("http://cdn.pcwallart.com/images/austin-texas-skyline-wallpaper-3.jpg");
    background-size:     cover;                      /* <------ */
    background-repeat:   no-repeat;
+   background-attachment: scroll;
+   overflow-y: scroll;
   /* background-position: center center;  --*/
 }
 
@@ -17,7 +19,7 @@ img{
     border-radius: 50%;
 
 }
-p{
+p1{
   position: fixed;
   top: 10%;
   left: 30%;
@@ -37,7 +39,7 @@ l{
    background-color: white;
    text-align: center;
 }
-z{
-  position:fixed;
+#portfolio{
+  height: 400px;
   
 }
