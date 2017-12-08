@@ -4,7 +4,7 @@ body{
    background-repeat:   no-repeat;
    background-attachment: scroll;
    overflow-y: scroll;
-  /* background-position: center center;  --*/
+  /*background-position: center center;  */
 }
 
 img{
@@ -39,7 +39,7 @@ l{
    background-color: white;
    text-align: center;
 }
-#portfolio{
+/*#portfolio{
   height: 400px;
 
-}
+}*/
